@@ -41,7 +41,7 @@ st.set_page_config(page_title="Employee Promotion Predictor", layout="wide")
 
 @st.cache_resource
 def load_model():
-    with open('model_and_preprocessing_artifacts.pkl', 'rb') as f:
+    with open('model.pkl', 'rb') as f:
         return pickle.load(f)
 
 try:
