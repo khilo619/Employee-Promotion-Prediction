@@ -1,0 +1,9 @@
+`scikit-learn==1.6.1
+imbalanced-learn
+optuna
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+kagglehub
