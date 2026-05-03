@@ -1,0 +1,5 @@
+scikit-learn==1.6.1
+imbalanced-learn==0.14.1
+streamlit==1.57.0
+pandas==3.0.2
+numpy==2.4.4
